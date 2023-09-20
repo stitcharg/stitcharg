@@ -1,4 +1,10 @@
-### Hi there 👋
+### Stitch not bad, Stitch fluffy!
+![Hola](https://media.tenor.com/jFYG-wyoP4oAAAAC/stitch-hola.gif)
+
+### Stats
+![Stitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=stitcharg&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&line_height=20)
+
+![Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=stitcharg&theme=github_dark&layout=compact)
 
 <!--
 **stitcharg/stitcharg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
